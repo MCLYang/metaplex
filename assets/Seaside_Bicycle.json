@@ -1,0 +1,49 @@
+{
+    "name": "Itoka#0 Seaside Bicycle",
+    "symbol": "",
+    "description": "Applied the state-of-the-art deep generative model(TransformerX) to embrace the next level of lofi music. Seaside Bicycle is the #0 project. Enjoy music and let the vibe speaks",
+    "seller_fee_basis_points": 250,
+    "image": "Seaside_Bicycle.jpg",
+    "attributes": [
+      {
+        "trait_type": "Rendering Master",
+        "value": "Yihao Chen"
+      },
+      {
+        "trait_type": "Machine Learning Engineer",
+        "value": "Malcolm Yang"
+      },
+      {
+        "trait_type": "Model",
+        "value": "Xnet"
+      },
+      {
+        "trait_type": "Genre",
+        "value": "Lofi"
+      },
+      {
+        "trait_type": "Training data",
+        "value": "wikiphonia"
+      }
+    ],
+    "collection": {
+       "name": "Itoka NFT",
+       "family": "NFT"
+    },
+    "properties": {
+      "files": [
+        {
+          "uri": "Seaside_Bicycle.wav",
+          "type": "audio/wav"
+        }
+      ],
+      "category": "audio",
+      "creators": [
+        {
+          "address": "4Lm2yApPD7ZaUCBQ7Z8YF9678EULps1UXryDGGqMsxHr",
+          "share": 100
+
+        }
+      ]
+    }
+  }
