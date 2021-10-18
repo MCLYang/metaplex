@@ -3,7 +3,7 @@
     "symbol": "",
     "description": "Applied the state-of-the-art deep generative model(TransformerX) to embrace the next level of lofi music. Seaside Bicycle is the #0 project. Enjoy music and let the vibe speaks",
     "seller_fee_basis_points": 250,
-    "image": "Seaside_Bicycle.jpg",
+    "image": "Seaside_Bicycle.png",
     "attributes": [
       {
         "trait_type": "Rendering Master",
@@ -35,6 +35,10 @@
         {
           "uri": "Seaside_Bicycle.wav",
           "type": "audio/wav"
+        },
+        {
+          "uri": "Seaside_Bicycle.png",
+          "type": "iamge/png"
         }
       ],
       "category": "audio",
