@@ -39,6 +39,11 @@
         {
           "uri": "Seaside_Bicycle.png",
           "type": "iamge/png"
+        },
+        {
+          "uri": "https://octaimusic.s3.amazonaws.com/Seaside+Bicycle.mp",
+          "type": "unknown",
+          "cdn": true
         }
       ],
       "category": "audio",
